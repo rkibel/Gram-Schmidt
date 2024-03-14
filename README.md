@@ -13,7 +13,7 @@ and its reorthogonalized counterparts, denoted
 
 and how the condition number and norm of a randomly generated matrix affect the influence the round-off error in QR-orthogonalizability 
 
-$ \| I - Q^TQ \|_2$
+$ \| I - Q^TQ \|_2 $
 
 and decomposability
 
